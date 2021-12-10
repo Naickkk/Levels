@@ -1,0 +1,5 @@
+name: Levels
+version: '${project.version}'
+main: fun.eidon.levels.Levels
+api-version: 1.16
+authors: [ Naick ]
