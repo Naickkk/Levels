@@ -1,7 +1,7 @@
 # Levels
 This plugin is a Level System from my old server
 
-# Some features:
+# Some features
   - Levelup Animation
   - Chat Informations
   - Scoreboard Placeholders
